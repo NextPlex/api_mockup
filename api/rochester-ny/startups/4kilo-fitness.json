@@ -1,0 +1,30 @@
+{
+  "startups" : [
+    {
+      "name" : "4Kilo Fitness",
+      "headline": "Conceptualizing in advance",
+      "founded" : "2012",
+      "employees" : 10,
+      "funding" : "Venture Capital Firm",
+      "email" : "info@4kilofitness.com",
+      "address1": "123 Any Ln",
+      "address2": "",
+      "city": "Rochester",
+      "state": "New York",
+      "zip" : "14624",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, vero, consectetur, autem nesciunt aut sint at enim officia earum nam doloribus ipsa non incidunt saepe eius tempora hic iusto quaerat.",
+      "tags":
+      [
+        "health",
+        "fitness",
+        "coffee-outings"
+      ],
+      "coordinates":
+      {
+        "latitude": "43.148280",
+        "longitude": "-77.607422"
+      },
+      "link" : "/api/rochester-ny/startups/4kilo-fitness.json"
+    }
+  ]
+}

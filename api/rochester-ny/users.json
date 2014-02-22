@@ -48,8 +48,8 @@
         {
           "name" : "4Kilo Fitness",
           "role" : "CEO",
-          "type" : "company",
-          "link" : "/api/rochester-ny/groups/4kilo-fitness.json"
+          "type" : "startup",
+          "link" : "/api/rochester-ny/startups/4kilo-fitness.json"
         }
       ],
       "link" : "/api/rochester-ny/users/67890-jane-doe.json"
