@@ -1,0 +1,52 @@
+[
+  {
+    "id" : "12345",
+    "first_name" : "John",
+    "last_name" : "Doe",
+    "headline" : "I'm a make-believe person",
+    "avatar" : "http://placehold.it/300&text=John+Doe",
+    "profile_html" : "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia, perspiciatis, dolore, quos error ducimus animi nesciunt at aperiam maxime reiciendis harum cumque! Nihil, et optio expedita quam recusandae corrupti saepe!</p>",
+    "skills" :
+    [
+      "ruby",
+      "android",
+      "javascript"
+    ],
+    "living_in": "Rochester, NY",
+    "website" : "http://ilovenextplex.com",
+    "twitter" : "john_doe",
+    "organizations" :
+    {
+      "name" : "Some Group",
+      "role" : "Group Organizer",
+      "type" : "group",
+      "link" : "/api/rochester-ny/groups/some-group.json"
+    },
+    "link" : "/api/rochester-ny/users/12345-john-doe.json"
+  },
+  {
+    "id" : "67890",
+    "first_name" : "Jane",
+    "last_name" : "Doe",
+    "headline" : "I'm a make-believe person who is female!",
+    "avatar" : "http://placehold.it/300/fdd/fff&text=Jane+Doe",
+    "profile_html" : "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia, perspiciatis, dolore, quos error ducimus animi nesciunt at aperiam maxime reiciendis harum cumque! Nihil, et optio expedita quam recusandae corrupti saepe!</p>",
+    "skills" :
+    [
+      "ios",
+      "python",
+      "css"
+    ],
+    "living_in": "Buffalo, NY",
+    "website" : "http://janedoerocks.com",
+    "twitter" : "jane_doe",
+    "organizations" :
+    {
+      "name" : "4Kilo Fitness",
+      "role" : "CEO",
+      "type" : "company",
+      "link" : "/api/buffalo-ny/groups/4kilo-fitness.json"
+    },
+    "link" : "/api/buffalo-ny/users/67890-jane-doe.json"
+  }
+]
